@@ -1,0 +1,452 @@
+
+[
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "a dog"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a dog"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a cat"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a bird"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "He plays with a ball"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a boy playing with a ball"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a boy playing with a car"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a boy playing with a kite"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "a fish"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a fish"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a frog"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a duck"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "She draws a star"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a girl drawing a star"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a girl drawing a heart"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a girl drawing a sun"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "a book"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a book"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a pen"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a bag"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "They eat pizza"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "children eating pizza"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "children eating cake"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "children eating ice cream"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "a hat"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a hat"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a shoe"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a coat"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "He drinks milk"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a boy drinking milk"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a boy drinking juice"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a boy drinking water"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "a tree"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a tree"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a bush"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a flower"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "She has a doll"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a girl with a doll"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a girl with a teddy bear"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a girl with a ball"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "a star"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a star"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a moon"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a cloud"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [],
+    "ask": {
+      "type": "T",
+      "text": "They read a book"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "kids reading a book"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "kids reading a map"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "kids reading a letter"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  }
+]
+
+==============================
+
+Elapsed time: 11.80초
+

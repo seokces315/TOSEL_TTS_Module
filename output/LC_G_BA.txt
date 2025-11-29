@@ -1,0 +1,273 @@
+
+[
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: Do you like math class?\nW: Yes, it's interesting.\nM: Are you ready for the test tomorrow?"
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What’s next?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "I studied a lot for it"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "I think it's too late"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "I forgot my lunch today"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "I am going to the park"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: How much is this sweater?\nW: It's $20.\nM: Do you have it in blue?"
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What’s next?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Yes, we have blue in your size"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "The store opens at 10"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "I think it's too big"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "I need a new backpack"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: Are you going to the party?\nW: Yes, I am.\nM: What time will you get there?"
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What’s next?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "I'll arrive around 7 PM"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "I like the blue dress"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "The weather is nice today"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "My brother is playing soccer"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: Do you play any sports?\nW: I play tennis.\nM: Do you play on weekends?"
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What’s next?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Yes, I play every Saturday"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "I need a new racket"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "The game starts at noon"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "My shoes are red"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: What book are you reading?\nW: It's about animals.\nM: Is it interesting?"
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What’s next?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Yes, I love learning about them"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "I think it’s a sunny day"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "My favorite color is green"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "I have a new backpack"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  }
+]
+
+==============================
+
+Elapsed time: 10.66초
+

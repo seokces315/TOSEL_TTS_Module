@@ -1,0 +1,273 @@
+
+[
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "W: The sculpture in the gallery's entrance is quite mesmerizing, isn't it?\nM: Absolutely, it captures the essence of movement and grace effortlessly."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "A contemporary sculpture displayed prominently in an art gallery"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "A painting of a landscape hanging in a museum"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "A group of tourists taking pictures in front of a historic building"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "A collection of ancient pottery in a glass case"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: Did you notice how the chef skillfully handled the ingredients?\nW: Yes, and the aroma of the spices was simply irresistible."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "A chef expertly preparing a dish in a busy kitchen"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "A waiter serving food at an outdoor café"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "A couple dining at a candlelit table"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "A baker arranging pastries in a display case"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "W: The mountain range looked breathtaking from the summit, didn't it?\nM: Indeed, the snow-capped peaks were a sight to behold."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "A panoramic view of snow-capped mountains from a high summit"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "A dense forest with tall trees and a narrow path"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "A sandy beach with waves crashing against the shore"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "A bustling cityscape with skyscrapers and traffic"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: The antique clock on the mantelpiece has a fascinating history.\nW: I agree, its intricate design and craftsmanship are remarkable."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "An ornate antique clock sitting on a decorative mantelpiece"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "A modern digital clock on a bedside table"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "A vintage wall clock hanging in a hallway"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "A wristwatch displayed in a jewelry store"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "W: Those lilies by the pond are blooming beautifully this season.\nM: Yes, and their vibrant colors really stand out against the green foliage."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Brightly colored lilies blooming by a tranquil pond"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "A cactus garden with various succulents"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "A row of sunflowers in a field under the sun"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "A garden of roses in various shades of pink"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  }
+]
+
+==============================
+
+Elapsed time: 12.78초
+

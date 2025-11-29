@@ -1,0 +1,273 @@
+
+[
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The new art gallery downtown has some stunning sculptures.\nI saw photos, and the metallic one is my favorite."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a metallic sculpture"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a painted canvas"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a wooden carving"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a clay vase"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "John’s presentation was incredibly detailed and informative.\nYes, his slides were full of graphs and statistics."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a presentation slide with graphs"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a blank whiteboard"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a classroom with empty desks"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a teacher writing on a chalkboard"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "I heard that Sarah dyed her hair a bright color.\nYes, she chose a vibrant shade of purple this time."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a woman with purple hair"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a woman with blonde hair"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a woman with a hat"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a woman with glasses"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The concert last night was spectacular with all those laser lights.\nI agree, especially when they synced with the music."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a concert with laser lights"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a quiet library"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a daytime park"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a crowded subway station"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The new smartphone model has a fantastic camera feature.\nI’ve seen some of the photos, and the clarity is impressive."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "Describe an image reflecting the situation of the dialogue"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a clear photograph taken by a smartphone"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a blurry landscape picture"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a sketch drawing"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a painting of a cityscape"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  }
+]
+
+==============================
+
+Elapsed time: 8.41초
+

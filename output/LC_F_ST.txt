@@ -1,0 +1,273 @@
+
+[
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Sarah loves fruits. She eats an apple for breakfast. At lunch, she has a banana. For dinner, she enjoys some grapes. She always eats fruits every day."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What does Sarah eat for lunch?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a banana"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "an apple"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "grapes"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "an orange"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Tom has a pet. It is small and furry. It likes to run and play. It has a long tail. Tom feeds it carrots every day."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is Tom's pet?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a hamster"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a dog"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a cat"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a bird"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Lucy visits the zoo. She sees a tall giraffe. Then, she watches the lions. Later, she looks at the playful monkeys. Before leaving, she visits the elephants."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What animal does Lucy see first at the zoo?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "a tall giraffe"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "a lion"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "a monkey"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "an elephant"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "It is 8 o'clock in the morning. John gets ready for school. He brushes his teeth. Then, he puts on his shoes. He leaves home at 8:30 AM."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What time does John leave home?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "at 8:30 AM"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "at 8:00 AM"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "at 9:00 AM"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "at 7:30 AM"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Emma loves animals. She has three pets. A cat named Whiskers, a dog named Max, and a fish named Goldie. She feeds them every morning."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "How many pets does Emma have?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "three"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "two"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "four"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "five"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  }
+]
+
+==============================
+
+Elapsed time: 9.24초
+

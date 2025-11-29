@@ -1,0 +1,273 @@
+
+[
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: Have you finished the report for the meeting tomorrow?\nW: Not yet. I’m still working on the financial projections.\nM: Do you need any help with that?\nW: Actually, yes. Could you review the figures later?\nM: Sure, I can do that after lunch.\nW: Great, that would be really helpful."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What did the woman request?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "review the financial figures"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "write the report"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "schedule the meeting"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "prepare lunch"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "W: How long has it been since you moved to this neighborhood?\nM: It’s been about six months now.\nW: Have you settled in well?\nM: Mostly, but I'm still getting used to the traffic.\nW: I understand. It can be quite busy during rush hour.\nM: Yes, but I love the local park. It’s a great place to relax."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the man still adjusting to?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "traffic in the area"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "the local park"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "his new job"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "neighborhood events"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: Have you decided where to go for vacation this year?\nW: I’m thinking of going to Italy.\nM: That sounds amazing! Have you been there before?\nW: No, it’ll be my first time. I’m really looking forward to it.\nM: You’ll love it. The food and culture are incredible.\nW: That’s what I’ve heard. I can’t wait to experience it myself."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the woman planning to do?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "visit Italy"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "travel to France"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "stay home"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "go on a road trip"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "W: Is everything ready for the presentation?\nM: Almost. I'm just finalizing the slides.\nW: Make sure to include the latest sales figures.\nM: Will do. Do you want to review them together later?\nW: Yes, let’s do that after lunch.\nM: Perfect, I’ll have everything ready by then."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the man finalizing?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "the presentation slides"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "the meeting agenda"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "the sales report"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "the budget proposal"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "M: Have you seen the new exhibit at the science museum?\nW: Not yet. Is it worth visiting?\nM: Absolutely! It’s all about space exploration.\nW: That sounds fascinating. Maybe I’ll go this weekend.\nM: You should. The interactive displays are really engaging.\nW: Thanks for the recommendation. I’ll definitely check it out."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the new exhibit about?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "space exploration"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "ancient history"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "marine biology"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "renewable energy"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  }
+]
+
+==============================
+
+Elapsed time: 15.32초
+

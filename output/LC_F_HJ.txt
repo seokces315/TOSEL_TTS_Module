@@ -1,0 +1,538 @@
+
+[
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Tomorrow's weather forecast predicts sunny skies with light winds. The temperature will range from 18 to 25 degrees Celsius. There is no chance of rain, making it a perfect day for outdoor activities. Remember to apply sunscreen if you plan to be outside for long periods. The evening will be clear, with temperatures dropping to around 15 degrees Celsius."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the general weather forecast for tomorrow?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "sunny and clear"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "rainy and windy"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "cloudy and stormy"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "snowy and cold"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Tomorrow's weather forecast predicts sunny skies with light winds. The temperature will range from 18 to 25 degrees Celsius. There is no chance of rain, making it a perfect day for outdoor activities. Remember to apply sunscreen if you plan to be outside for long periods. The evening will be clear, with temperatures dropping to around 15 degrees Celsius."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What should people remember to do if they are outside?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "apply sunscreen"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "wear raincoats"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "bring umbrellas"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "wear boots"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Welcome to the grand opening of Tech World! We are excited to offer exclusive discounts on our latest gadgets. Join us at the demo booth for a chance to win a free tablet. Our opening hours are from 10 AM to 8 PM, and refreshments will be served. Don't miss this opportunity to explore the future of technology."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the main event mentioned in the announcement?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "grand opening"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "clearance sale"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "charity auction"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "art exhibition"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Welcome to the grand opening of Tech World! We are excited to offer exclusive discounts on our latest gadgets. Join us at the demo booth for a chance to win a free tablet. Our opening hours are from 10 AM to 8 PM, and refreshments will be served. Don't miss this opportunity to explore the future of technology."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What can attendees do at the demo booth?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "win a free tablet"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "buy a laptop"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "attend a workshop"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "watch a movie"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "In today's lecture, we will explore the impact of climate change on global agriculture. We will discuss how rising temperatures and unpredictable weather patterns affect crop yields. The session will also cover adaptation strategies and sustainable farming practices. Please have your notebooks ready for important notes."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the topic of today's lecture?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "climate change and agriculture"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "marine biology"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "ancient history"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "modern architecture"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "In today's lecture, we will explore the impact of climate change on global agriculture. We will discuss how rising temperatures and unpredictable weather patterns affect crop yields. The session will also cover adaptation strategies and sustainable farming practices. Please have your notebooks ready for important notes."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What should students have ready for the lecture?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "notebooks"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "calculators"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "textbooks"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "laptops"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Attention passengers: Flight 203 to Paris is now boarding at Gate 14. Please have your boarding passes and passports ready for inspection. The flight is scheduled to depart at 6:30 PM. We apologize for the earlier delay and appreciate your patience. Thank you for choosing our airline."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the destination of Flight 203?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Paris"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "London"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "New York"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "Tokyo"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Attention passengers: Flight 203 to Paris is now boarding at Gate 14. Please have your boarding passes and passports ready for inspection. The flight is scheduled to depart at 6:30 PM. We apologize for the earlier delay and appreciate your patience. Thank you for choosing our airline."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What time is the flight scheduled to depart?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "6:30 PM"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "7:30 PM"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "5:30 PM"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "8:30 PM"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "This is a fire drill. Please calmly exit the building through the nearest emergency exit. Do not use elevators. Once outside, proceed to the designated assembly area. This drill ensures everyone knows what to do in case of an actual emergency. Thank you for your cooperation."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What is the purpose of this announcement?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "fire drill"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "new employee orientation"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "building renovation"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "power outage"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  },
+  {
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "This is a fire drill. Please calmly exit the building through the nearest emergency exit. Do not use elevators. Once outside, proceed to the designated assembly area. This drill ensures everyone knows what to do in case of an actual emergency. Thank you for your cooperation."
+        }
+      }
+    ],
+    "ask": {
+      "type": "T",
+      "text": "What should people avoid using during the drill?"
+    },
+    "choices": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "elevators"
+        },
+        "isCorrect": true
+      },
+      {
+        "index": 1,
+        "content": {
+          "type": "T",
+          "text": "stairs"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 2,
+        "content": {
+          "type": "T",
+          "text": "fire exits"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "doors"
+        },
+        "isCorrect": false
+      }
+    ],
+    "tags": [],
+    "difficulty": null,
+    "predictedAccuracy": null,
+    "createdUserId": null
+  }
+]
+
+==============================
+
+Elapsed time: 19.92초
+
