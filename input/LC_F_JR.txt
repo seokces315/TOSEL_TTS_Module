@@ -1,17 +1,24 @@
-
 [
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The rabbit and the turtle had a race. The rabbit ran fast but got tired. The turtle walked slowly but never stopped. In the end, the turtle won the race. The rabbit learned not to be overconfident."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Is it raining outside?"
+      "text": "Who won the race?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, it is."
+          "text": "the turtle"
         },
         "isCorrect": true
       },
@@ -19,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "No, she isn’t."
+          "text": "the rabbit"
         },
         "isCorrect": false
       },
@@ -27,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Yes, he can."
+          "text": "both"
         },
         "isCorrect": false
       },
@@ -35,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "No, they don’t."
+          "text": "neither"
         },
         "isCorrect": false
       }
@@ -46,17 +53,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The rabbit and the turtle had a race. The rabbit ran fast but got tired. The turtle walked slowly but never stopped. In the end, the turtle won the race. The rabbit learned not to be overconfident."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Where is your hat?"
+      "text": "What lesson did the rabbit learn?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "It’s on the table."
+          "text": "not to be overconfident"
         },
         "isCorrect": true
       },
@@ -64,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "She likes cats."
+          "text": "to run faster"
         },
         "isCorrect": false
       },
@@ -72,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I can jump."
+          "text": "to eat more"
         },
         "isCorrect": false
       },
@@ -80,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "They are blue."
+          "text": "to sleep less"
         },
         "isCorrect": false
       }
@@ -91,17 +106,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Sarah writes in her diary every night. Yesterday, she went to the zoo. She saw lions, elephants, and monkeys. The monkeys made her laugh the most. She also enjoyed eating ice cream."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Can you ride a bike?"
+      "text": "What did Sarah do yesterday?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, I can."
+          "text": "went to the zoo"
         },
         "isCorrect": true
       },
@@ -109,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "No, it isn’t."
+          "text": "went to the park"
         },
         "isCorrect": false
       },
@@ -117,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Yes, she does."
+          "text": "went to school"
         },
         "isCorrect": false
       },
@@ -125,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "No, we don’t."
+          "text": "went to the beach"
         },
         "isCorrect": false
       }
@@ -136,17 +159,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Sarah writes in her diary every night. Yesterday, she went to the zoo. She saw lions, elephants, and monkeys. The monkeys made her laugh the most. She also enjoyed eating ice cream."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "What is your name?"
+      "text": "Which animals did Sarah find funniest?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "My name is Anna."
+          "text": "monkeys"
         },
         "isCorrect": true
       },
@@ -154,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "He is tall."
+          "text": "lions"
         },
         "isCorrect": false
       },
@@ -162,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I like apples."
+          "text": "elephants"
         },
         "isCorrect": false
       },
@@ -170,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "She is here."
+          "text": "tigers"
         },
         "isCorrect": false
       }
@@ -181,17 +212,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The classroom has twenty desks and a big board. There are colorful posters on the walls. The teacher's desk is at the front. The windows let in a lot of sunlight. Students love the bright room."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Do you like ice cream?"
+      "text": "How many desks are in the classroom?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, I do."
+          "text": "twenty"
         },
         "isCorrect": true
       },
@@ -199,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "No, he doesn’t."
+          "text": "fifteen"
         },
         "isCorrect": false
       },
@@ -207,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Yes, we are."
+          "text": "ten"
         },
         "isCorrect": false
       },
@@ -215,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "No, it isn’t."
+          "text": "twenty-five"
         },
         "isCorrect": false
       }
@@ -226,17 +265,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The classroom has twenty desks and a big board. There are colorful posters on the walls. The teacher's desk is at the front. The windows let in a lot of sunlight. Students love the bright room."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "How old are you?"
+      "text": "What do the students like about the classroom?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I am seven."
+          "text": "the bright room"
         },
         "isCorrect": true
       },
@@ -244,7 +291,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "She is my friend."
+          "text": "the teacher's desk"
         },
         "isCorrect": false
       },
@@ -252,7 +299,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "It is big."
+          "text": "the colorful posters"
         },
         "isCorrect": false
       },
@@ -260,7 +307,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "We have two."
+          "text": "the big board"
         },
         "isCorrect": false
       }
@@ -271,17 +318,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Attention students. The school bus will leave at 3 p.m. today. If you miss it, you will need to find another way home. Please be on time. Tomorrow, the bus will leave at the usual time, 3:30 p.m."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Close the door, please."
+      "text": "What time does the bus leave today?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Sure, I will."
+          "text": "3 p.m."
         },
         "isCorrect": true
       },
@@ -289,7 +344,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "No, she won’t."
+          "text": "3:30 p.m."
         },
         "isCorrect": false
       },
@@ -297,7 +352,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I like red."
+          "text": "4 p.m."
         },
         "isCorrect": false
       },
@@ -305,7 +360,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "He is nice."
+          "text": "2:30 p.m."
         },
         "isCorrect": false
       }
@@ -316,17 +371,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Attention students. The school bus will leave at 3 p.m. today. If you miss it, you will need to find another way home. Please be on time. Tomorrow, the bus will leave at the usual time, 3:30 p.m."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "When is your birthday?"
+      "text": "When will the bus leave tomorrow?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "It’s in June."
+          "text": "3:30 p.m."
         },
         "isCorrect": true
       },
@@ -334,7 +397,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I have two."
+          "text": "3 p.m."
         },
         "isCorrect": false
       },
@@ -342,7 +405,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "She likes toys."
+          "text": "4 p.m."
         },
         "isCorrect": false
       },
@@ -350,7 +413,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "They are fast."
+          "text": "2:30 p.m."
         },
         "isCorrect": false
       }
@@ -361,17 +424,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Tom found a small, brown dog by the river. The dog was hungry and cold. Tom took it home and gave it food. The dog wagged its tail and barked happily. Now, Tom has a new friend."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Are you ready to go?"
+      "text": "Where did Tom find the dog?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, I am."
+          "text": "by the river"
         },
         "isCorrect": true
       },
@@ -379,7 +450,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "No, she isn’t."
+          "text": "in the park"
         },
         "isCorrect": false
       },
@@ -387,7 +458,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Yes, he can."
+          "text": "on the street"
         },
         "isCorrect": false
       },
@@ -395,7 +466,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "No, it isn’t."
+          "text": "in the forest"
         },
         "isCorrect": false
       }
@@ -406,62 +477,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "What’s in your bag?"
-    },
-    "choices": [
+    "materials": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Books and pencils."
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "I am six."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 2,
-        "content": {
-          "type": "T",
-          "text": "She is happy."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "We are late."
-        },
-        "isCorrect": false
+          "text": "Tom found a small, brown dog by the river. The dog was hungry and cold. Tom took it home and gave it food. The dog wagged its tail and barked happily. Now, Tom has a new friend."
+        }
       }
     ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
     "ask": {
       "type": "T",
-      "text": "Look at the bird."
+      "text": "How did the dog react after Tom fed it?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "It’s so pretty!"
+          "text": "wagged its tail"
         },
         "isCorrect": true
       },
@@ -469,7 +503,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I have one."
+          "text": "ran away"
         },
         "isCorrect": false
       },
@@ -477,7 +511,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "She can jump."
+          "text": "growled"
         },
         "isCorrect": false
       },
@@ -485,232 +519,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "They are big."
-        },
-        "isCorrect": false
-      }
-    ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "Who has the ball?"
-    },
-    "choices": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Tom has it."
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "I see you."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 2,
-        "content": {
-          "type": "T",
-          "text": "It is sunny."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "We are friends."
-        },
-        "isCorrect": false
-      }
-    ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "Do you want a cookie?"
-    },
-    "choices": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Yes, please."
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "No, he isn’t."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 2,
-        "content": {
-          "type": "T",
-          "text": "Yes, she does."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "No, it isn’t."
-        },
-        "isCorrect": false
-      }
-    ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "Where is my book?"
-    },
-    "choices": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "It’s on the chair."
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "She likes red."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 2,
-        "content": {
-          "type": "T",
-          "text": "I am tall."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "We are here."
-        },
-        "isCorrect": false
-      }
-    ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "Can you help me?"
-    },
-    "choices": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Of course!"
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "No, it can’t."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 2,
-        "content": {
-          "type": "T",
-          "text": "She is busy."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "They are big."
-        },
-        "isCorrect": false
-      }
-    ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "What time is it?"
-    },
-    "choices": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "It’s three o’clock."
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "She is kind."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 2,
-        "content": {
-          "type": "T",
-          "text": "I like cats."
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "We are late."
+          "text": "slept"
         },
         "isCorrect": false
       }
@@ -721,8 +530,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 18.05초
-

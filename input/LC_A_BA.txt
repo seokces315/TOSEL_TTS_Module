@@ -1,25 +1,16 @@
-
 [
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Boy: Do you have a pet?\nGirl: Yes, I have a dog."
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What pet does the girl have?"
+      "text": "The cat is sleeping."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a dog"
+          "text": "a cat sleeping"
         },
         "isCorrect": true
       },
@@ -27,7 +18,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a cat"
+          "text": "a cat eating"
         },
         "isCorrect": false
       },
@@ -35,7 +26,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a fish"
+          "text": "a dog sleeping"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a bird sleeping"
         },
         "isCorrect": false
       }
@@ -46,25 +45,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Boy: What's your favorite fruit?\nGirl: I love eating apples."
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What fruit does the girl love?"
+      "text": "The sun is shining."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "apples"
+          "text": "a bright sun"
         },
         "isCorrect": true
       },
@@ -72,7 +63,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "bananas"
+          "text": "a cloudy sky"
         },
         "isCorrect": false
       },
@@ -80,7 +71,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "grapes"
+          "text": "a rainy day"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a snowy mountain"
         },
         "isCorrect": false
       }
@@ -91,25 +90,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Boy: Is it raining outside?\nGirl: No, it is sunny."
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What is the weather like?"
+      "text": "The girl reads a book."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "sunny"
+          "text": "a girl reading"
         },
         "isCorrect": true
       },
@@ -117,7 +108,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "rainy"
+          "text": "a boy writing"
         },
         "isCorrect": false
       },
@@ -125,7 +116,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "cloudy"
+          "text": "a girl singing"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a boy drawing"
         },
         "isCorrect": false
       }
@@ -136,25 +135,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Boy: How many books do you have?\nGirl: I have five books."
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "How many books does the girl have?"
+      "text": "The teacher writes on the board."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "five"
+          "text": "a teacher writing"
         },
         "isCorrect": true
       },
@@ -162,7 +153,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "three"
+          "text": "a student reading"
         },
         "isCorrect": false
       },
@@ -170,7 +161,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "seven"
+          "text": "a teacher speaking"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a student drawing"
         },
         "isCorrect": false
       }
@@ -181,25 +180,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "Boy: What do you see in the sky?\nGirl: I see a big balloon."
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What does the girl see in the sky?"
+      "text": "The car is red."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a big balloon"
+          "text": "a red car"
         },
         "isCorrect": true
       },
@@ -207,7 +198,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a bird"
+          "text": "a blue car"
         },
         "isCorrect": false
       },
@@ -215,7 +206,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a kite"
+          "text": "a yellow truck"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a green bike"
         },
         "isCorrect": false
       }
@@ -226,8 +225,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 7.84초
-

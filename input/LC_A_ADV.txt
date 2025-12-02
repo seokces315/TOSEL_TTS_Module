@@ -1,4 +1,3 @@
-
 [
   {
     "materials": [
@@ -6,20 +5,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Boy: Do you have a pet?\nGirl: Yes, I have a small dog."
+          "text": "The storm last night was quite intense. Did it cause any damage to your garden?\nFortunately, no. The tall fence we installed last year did a great job protecting it."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What pet does the girl have?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a small dog"
+          "text": "A well-maintained garden with a tall wooden fence"
         },
         "isCorrect": true
       },
@@ -27,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a large cat"
+          "text": "A garden with fallen branches and scattered debris"
         },
         "isCorrect": false
       },
@@ -35,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a goldfish"
+          "text": "A garden being watered with a hose"
         },
         "isCorrect": false
       },
@@ -43,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a rabbit"
+          "text": "A garden covered in snow and ice"
         },
         "isCorrect": false
       }
@@ -59,20 +58,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Girl: What is your favorite subject?\nBoy: I love math. It is fun."
+          "text": "Are you planning to take your novel to the book club meeting tonight?\nYes, I've been eager to hear their thoughts on the new chapter I wrote."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the boy's favorite subject?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "math"
+          "text": "A woman holding a book with a group of people in a living room"
         },
         "isCorrect": true
       },
@@ -80,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "history"
+          "text": "A woman reading a book by herself at a café"
         },
         "isCorrect": false
       },
@@ -88,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "science"
+          "text": "A woman browsing books at a library"
         },
         "isCorrect": false
       },
@@ -96,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "art"
+          "text": "A woman typing on a laptop in a home office"
         },
         "isCorrect": false
       }
@@ -112,20 +111,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Boy: Is it raining outside?\nGirl: No, the sun is shining."
+          "text": "This antique vase seems quite delicate. Should we put it on the top shelf?\nYes, but make sure it's placed securely away from the edge."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the weather like outside?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "sunny"
+          "text": "A vase displayed on a high shelf in a room"
         },
         "isCorrect": true
       },
@@ -133,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "rainy"
+          "text": "A vase being packed in a cardboard box"
         },
         "isCorrect": false
       },
@@ -141,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "snowy"
+          "text": "A vase surrounded by colorful flowers in a garden"
         },
         "isCorrect": false
       },
@@ -149,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "windy"
+          "text": "A vase with a broken handle on the floor"
         },
         "isCorrect": false
       }
@@ -165,20 +164,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Girl: Can you play soccer today?\nBoy: Yes, I am free after school."
+          "text": "I noticed the new painting in the office. Did you create it yourself?\nYes, I painted it during my art class. I'm glad you like it."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "When can the boy play soccer?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "after school"
+          "text": "A painting on an office wall with a woman smiling beside it"
         },
         "isCorrect": true
       },
@@ -186,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "before school"
+          "text": "A blank canvas on an easel in a studio"
         },
         "isCorrect": false
       },
@@ -194,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "during lunch"
+          "text": "A woman sketching on a notepad in a park"
         },
         "isCorrect": false
       },
@@ -202,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "on the weekend"
+          "text": "A framed photograph of a cityscape on a wall"
         },
         "isCorrect": false
       }
@@ -218,20 +217,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Boy: Do you like apples?\nGirl: Yes, I eat one every day."
+          "text": "I need to get this report to the manager before lunch. Can you help me with the charts?\nSure, I'll add the latest data to make them more accurate."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What fruit does the girl eat every day?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "an apple"
+          "text": "A man and a woman working on charts at a desk"
         },
         "isCorrect": true
       },
@@ -239,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a banana"
+          "text": "A man presenting charts to a group in a meeting room"
         },
         "isCorrect": false
       },
@@ -247,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "an orange"
+          "text": "A woman writing notes in a notebook"
         },
         "isCorrect": false
       },
@@ -255,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a grape"
+          "text": "A man organizing papers in a filing cabinet"
         },
         "isCorrect": false
       }
@@ -266,8 +265,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 5.84초
-

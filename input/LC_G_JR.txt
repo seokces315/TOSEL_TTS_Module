@@ -1,4 +1,3 @@
-
 [
   {
     "materials": [
@@ -6,20 +5,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "W: Have you seen my keys? I can’t find them anywhere.\nM: Did you check the kitchen counter?\nW: Yes, I did. They weren’t there.\nM: Maybe you left them in the car. \nW: Oh, you’re right! I was in a hurry this morning.\nM: Let’s go check the car together."
+          "text": "M: Are you going to the soccer game this Friday?\nW: I haven't decided yet. Are you going?\nM: Yes, I'm going with some friends."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "Where does the man suggest they look for the keys?"
+      "text": "What’s next?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "in the car"
+          "text": "Maybe I'll join you then."
         },
         "isCorrect": true
       },
@@ -27,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "in the garage"
+          "text": "She likes to play tennis."
         },
         "isCorrect": false
       },
@@ -35,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "in the office"
+          "text": "I have a lot of homework."
         },
         "isCorrect": false
       },
@@ -43,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "in the bathroom"
+          "text": "They are my favorite team."
         },
         "isCorrect": false
       }
@@ -59,20 +58,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "M: Are you going to the concert tonight?\nW: No, I have to study for my exam tomorrow.\nM: That’s too bad. I heard it’s going to be amazing.\nW: I know, but I need to focus on my grades.\nM: Maybe we can go to another concert next month.\nW: That sounds like a plan."
+          "text": "M: Have you finished reading the book for class?\nW: Not yet, but I'm almost done.\nM: What do you think of it so far?"
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "Why is the woman not going to the concert?"
+      "text": "What’s next?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "She has to study."
+          "text": "It's really interesting."
         },
         "isCorrect": true
       },
@@ -80,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "She doesn’t like concerts."
+          "text": "I'm going to the store."
         },
         "isCorrect": false
       },
@@ -88,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "She has work."
+          "text": "He is a great author."
         },
         "isCorrect": false
       },
@@ -96,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "She is feeling ill."
+          "text": "We have a math test."
         },
         "isCorrect": false
       }
@@ -112,20 +111,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "W: Hi, I’m looking for a new book to read. Any recommendations?\nM: What genre do you prefer?\nW: I love mystery novels.\nM: How about \"The Silent Patient\"? It’s a great mystery.\nW: Thanks! I’ll check it out.\nM: Let me know how you like it."
+          "text": "M: Can you help me with my science project after school?\nW: Sure, I can help. What do you need?\nM: I need to finish the presentation slides."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the woman looking for?"
+      "text": "What’s next?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a new book"
+          "text": "Let's work on them together."
         },
         "isCorrect": true
       },
@@ -133,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a movie ticket"
+          "text": "She has a piano lesson."
         },
         "isCorrect": false
       },
@@ -141,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a music album"
+          "text": "I went to the library."
         },
         "isCorrect": false
       },
@@ -149,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a new game"
+          "text": "We watched a movie."
         },
         "isCorrect": false
       }
@@ -165,20 +164,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "M: Did you finish the report for the meeting?\nW: Not yet. I still need to gather some data.\nM: The deadline is tomorrow morning.\nW: I know. I’ll work on it tonight.\nM: Let me know if you need any help.\nW: Thanks, I appreciate it."
+          "text": "M: Do you know if the library is open on weekends?\nW: I think it is, but I'm not sure.\nM: I need to return some books."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What does the man remind the woman about?"
+      "text": "What’s next?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "the report deadline"
+          "text": "You can call and check."
         },
         "isCorrect": true
       },
@@ -186,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "the meeting location"
+          "text": "She bought a new dress."
         },
         "isCorrect": false
       },
@@ -194,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "the project budget"
+          "text": "I have a soccer game."
         },
         "isCorrect": false
       },
@@ -202,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "the team lunch"
+          "text": "We went last week."
         },
         "isCorrect": false
       }
@@ -218,20 +217,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "W: I love this painting. It’s beautiful.\nM: Thank you. It’s one of my favorites too.\nW: Did you create it yourself?\nM: Yes, I did. I enjoy painting landscapes.\nW: You’re very talented. Do you sell your work?\nM: Sometimes, but mostly I paint for fun."
+          "text": "M: I heard there's a new cafe in town.\nW: Yes, I went there last weekend.\nM: How was it?"
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What does the woman admire?"
+      "text": "What’s next?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a painting"
+          "text": "The coffee was really good."
         },
         "isCorrect": true
       },
@@ -239,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a sculpture"
+          "text": "I need to buy groceries."
         },
         "isCorrect": false
       },
@@ -247,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a photograph"
+          "text": "He is a good chef."
         },
         "isCorrect": false
       },
@@ -255,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a drawing"
+          "text": "They have a math test."
         },
         "isCorrect": false
       }
@@ -266,8 +265,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 13.67초
-

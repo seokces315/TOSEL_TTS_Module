@@ -1,4 +1,3 @@
-
 [
   {
     "materials": [
@@ -6,20 +5,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "W: Have you seen my keys? I can’t find them anywhere.\nM: Did you check the kitchen counter?\nW: Yes, I already looked there.\nM: Maybe they’re in your bag.\nW: Oh, found them! They were in my bag."
+          "text": "Boy: Do you have a pet?\nGirl: Yes, I have a dog."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What was the woman looking for?"
+      "text": "What pet does the girl have?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "her keys"
+          "text": "a dog"
         },
         "isCorrect": true
       },
@@ -27,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "her phone"
+          "text": "a cat"
         },
         "isCorrect": false
       },
@@ -35,15 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "her wallet"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "her book"
+          "text": "a fish"
         },
         "isCorrect": false
       }
@@ -59,20 +50,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "M: Are you coming to the party on Saturday?\nW: I’m not sure. I have a lot of homework.\nM: You could finish some of it tomorrow.\nW: That’s a good idea. I’ll try that."
+          "text": "Boy: What's your favorite fruit?\nGirl: I love apples the most."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What did the man suggest?"
+      "text": "What fruit does the girl love?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "finishing homework tomorrow"
+          "text": "apples"
         },
         "isCorrect": true
       },
@@ -80,7 +71,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "going shopping"
+          "text": "bananas"
         },
         "isCorrect": false
       },
@@ -88,15 +79,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "calling a friend"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "watching a movie"
+          "text": "oranges"
         },
         "isCorrect": false
       }
@@ -112,20 +95,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "W: This movie is really funny.\nM: I agree. The actors are great.\nW: Do you want some popcorn?\nM: Yes, please. I’ll get us some drinks too."
+          "text": "Boy: Where is your book?\nGirl: It's on the table."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What are the speakers doing?"
+      "text": "Where is the girl's book?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "watching a movie"
+          "text": "on the table"
         },
         "isCorrect": true
       },
@@ -133,7 +116,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "playing a game"
+          "text": "under the chair"
         },
         "isCorrect": false
       },
@@ -141,15 +124,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "reading a book"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "cooking dinner"
+          "text": "in the bag"
         },
         "isCorrect": false
       }
@@ -165,20 +140,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "M: Have you finished the science project?\nW: Not yet, I’m stuck on the last part.\nM: Want me to help you with it?\nW: That would be great, thanks!"
+          "text": "Boy: Do you like pizza?\nGirl: Yes, pizza is my favorite food."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the woman struggling with?"
+      "text": "What is the girl's favorite food?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "science project"
+          "text": "pizza"
         },
         "isCorrect": true
       },
@@ -186,7 +161,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "art assignment"
+          "text": "pasta"
         },
         "isCorrect": false
       },
@@ -194,15 +169,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "math homework"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "history essay"
+          "text": "salad"
         },
         "isCorrect": false
       }
@@ -218,20 +185,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "W: I’m thinking about joining the soccer team.\nM: That sounds exciting! When are tryouts?\nW: They’re next Tuesday after school.\nM: You should definitely go for it."
+          "text": "Boy: When do you go to bed?\nGirl: I sleep at 8 o'clock."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the woman planning to do?"
+      "text": "When does the girl go to sleep?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "join the soccer team"
+          "text": "at 8 o'clock"
         },
         "isCorrect": true
       },
@@ -239,7 +206,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "take a dance class"
+          "text": "at 9 o'clock"
         },
         "isCorrect": false
       },
@@ -247,15 +214,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "start a book club"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "learn to play guitar"
+          "text": "at 7 o'clock"
         },
         "isCorrect": false
       }
@@ -266,8 +225,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 9.11초
-

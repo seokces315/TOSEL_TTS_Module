@@ -1,17 +1,24 @@
-
 [
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Tim has a red kite. He flies it in the park. The wind is strong, and the kite goes high. Tim smiles and runs. His friends watch him."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Can you help me with my math homework later?"
+      "text": "What color is Tim's kite?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Sure, I can help you after dinner."
+          "text": "red"
         },
         "isCorrect": true
       },
@@ -19,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I think it’s in the kitchen."
+          "text": "blue"
         },
         "isCorrect": false
       },
@@ -27,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "The answer is definitely A."
+          "text": "green"
         },
         "isCorrect": false
       },
@@ -35,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "Maybe we should call a plumber."
+          "text": "yellow"
         },
         "isCorrect": false
       }
@@ -46,17 +53,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Jenny bakes cookies. She adds chocolate chips and nuts. Her brother loves them. They eat together after dinner. The cookies are sweet and crunchy."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "The weather forecast says it might rain this afternoon."
+      "text": "What does Jenny add to the cookies?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Should we bring an umbrella?"
+          "text": "chocolate chips"
         },
         "isCorrect": true
       },
@@ -64,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "Yes, I finished the report."
+          "text": "raisins"
         },
         "isCorrect": false
       },
@@ -72,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I’ll have pasta, please."
+          "text": "marshmallows"
         },
         "isCorrect": false
       },
@@ -80,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "When is the meeting?"
+          "text": "candies"
         },
         "isCorrect": false
       }
@@ -91,17 +106,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "It's 8 o'clock. Sam gets ready for school. He packs his bag and eats breakfast. His bus arrives at 8:30. He waves goodbye to his mom."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "I feel really nervous about the presentation tomorrow."
+      "text": "What time does Sam's bus arrive?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Do you want to practice together?"
+          "text": "at 8:30"
         },
         "isCorrect": true
       },
@@ -109,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "What time does it start?"
+          "text": "at 8:00"
         },
         "isCorrect": false
       },
@@ -117,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I haven’t seen it yet."
+          "text": "at 7:30"
         },
         "isCorrect": false
       },
@@ -125,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "Did you finish your assignment?"
+          "text": "at 9:00"
         },
         "isCorrect": false
       }
@@ -136,17 +159,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The cat is small and white. It has blue eyes and a pink nose. It loves to play with yarn. The cat sleeps on a soft pillow."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "Why didn’t you attend the school assembly today?"
+      "text": "What color are the cat's eyes?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I wasn’t feeling well this morning."
+          "text": "blue"
         },
         "isCorrect": true
       },
@@ -154,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "It’s happening in the gym."
+          "text": "green"
         },
         "isCorrect": false
       },
@@ -162,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Yes, she is a new teacher."
+          "text": "brown"
         },
         "isCorrect": false
       },
@@ -170,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I’ll see you at lunch."
+          "text": "black"
         },
         "isCorrect": false
       }
@@ -181,17 +212,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Mia has five apples. She gives two to her friend. Now she has three apples left. Mia puts them in her lunchbox. She eats one at school."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "We should organize a fundraiser for the animal shelter."
+      "text": "How many apples does Mia give to her friend?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "That’s a great idea! Let’s plan it."
+          "text": "two"
         },
         "isCorrect": true
       },
@@ -199,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "Yes, I have a blue one."
+          "text": "one"
         },
         "isCorrect": false
       },
@@ -207,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "No, I haven’t seen the movie."
+          "text": "three"
         },
         "isCorrect": false
       },
@@ -215,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "What time is dinner?"
+          "text": "four"
         },
         "isCorrect": false
       }
@@ -226,8 +265,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 6.64초
-

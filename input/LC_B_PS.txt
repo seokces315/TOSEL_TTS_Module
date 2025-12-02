@@ -1,17 +1,16 @@
-
 [
   {
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "a dog"
+      "text": "Is it raining outside?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a dog"
+          "text": "Yes, it is."
         },
         "isCorrect": true
       },
@@ -19,7 +18,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a cat"
+          "text": "No, I can't."
         },
         "isCorrect": false
       },
@@ -27,7 +26,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a bird"
+          "text": "Yes, we will."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "No, they aren't."
         },
         "isCorrect": false
       }
@@ -41,14 +48,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "He plays with a ball"
+      "text": "Where is your book?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a boy playing with a ball"
+          "text": "It's on the table."
         },
         "isCorrect": true
       },
@@ -56,7 +63,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a boy playing with a car"
+          "text": "I like reading."
         },
         "isCorrect": false
       },
@@ -64,7 +71,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a boy playing with a kite"
+          "text": "She's my friend."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "We are happy."
         },
         "isCorrect": false
       }
@@ -78,14 +93,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "a fish"
+      "text": "Can you ride a bike?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a fish"
+          "text": "Yes, I can."
         },
         "isCorrect": true
       },
@@ -93,7 +108,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a frog"
+          "text": "No, she won't."
         },
         "isCorrect": false
       },
@@ -101,7 +116,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a duck"
+          "text": "It's too high."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "They are fast."
         },
         "isCorrect": false
       }
@@ -115,14 +138,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "She draws a star"
+      "text": "What is your name?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a girl drawing a star"
+          "text": "My name is Ben."
         },
         "isCorrect": true
       },
@@ -130,7 +153,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a girl drawing a heart"
+          "text": "I have a dog."
         },
         "isCorrect": false
       },
@@ -138,7 +161,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a girl drawing a sun"
+          "text": "She likes apples."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "It's very hot."
         },
         "isCorrect": false
       }
@@ -152,14 +183,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "a book"
+      "text": "Do you like ice cream?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a book"
+          "text": "Yes, I do."
         },
         "isCorrect": true
       },
@@ -167,7 +198,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a pen"
+          "text": "She is tall."
         },
         "isCorrect": false
       },
@@ -175,7 +206,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a bag"
+          "text": "No, it isn't."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "I can swim."
         },
         "isCorrect": false
       }
@@ -189,14 +228,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "They eat pizza"
+      "text": "How are you today?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "children eating pizza"
+          "text": "I am fine."
         },
         "isCorrect": true
       },
@@ -204,7 +243,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "children eating cake"
+          "text": "It is blue."
         },
         "isCorrect": false
       },
@@ -212,7 +251,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "children eating ice cream"
+          "text": "She is nice."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "We are late."
         },
         "isCorrect": false
       }
@@ -226,14 +273,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "a hat"
+      "text": "What time is it?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a hat"
+          "text": "It's two o'clock."
         },
         "isCorrect": true
       },
@@ -241,7 +288,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a shoe"
+          "text": "I am hungry."
         },
         "isCorrect": false
       },
@@ -249,7 +296,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a coat"
+          "text": "He is tall."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "They are here."
         },
         "isCorrect": false
       }
@@ -263,14 +318,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "He drinks milk"
+      "text": "Do you have a pet?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a boy drinking milk"
+          "text": "Yes, I do."
         },
         "isCorrect": true
       },
@@ -278,7 +333,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a boy drinking juice"
+          "text": "She is my mom."
         },
         "isCorrect": false
       },
@@ -286,7 +341,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a boy drinking water"
+          "text": "No, we aren't."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "I like music."
         },
         "isCorrect": false
       }
@@ -300,14 +363,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "a tree"
+      "text": "Where is the park?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a tree"
+          "text": "It's near my house."
         },
         "isCorrect": true
       },
@@ -315,7 +378,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a bush"
+          "text": "I am sleepy."
         },
         "isCorrect": false
       },
@@ -323,7 +386,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a flower"
+          "text": "You are funny."
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "She is kind."
         },
         "isCorrect": false
       }
@@ -337,14 +408,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "She has a doll"
+      "text": "Is this your pencil?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a girl with a doll"
+          "text": "Yes, it is."
         },
         "isCorrect": true
       },
@@ -352,7 +423,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a girl with a teddy bear"
+          "text": "No, I don't."
         },
         "isCorrect": false
       },
@@ -360,81 +431,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a girl with a ball"
-        },
-        "isCorrect": false
-      }
-    ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "a star"
-    },
-    "choices": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "a star"
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "a moon"
+          "text": "She can run."
         },
         "isCorrect": false
       },
       {
-        "index": 2,
+        "index": 3,
         "content": {
           "type": "T",
-          "text": "a cloud"
-        },
-        "isCorrect": false
-      }
-    ],
-    "tags": [],
-    "difficulty": null,
-    "predictedAccuracy": null,
-    "createdUserId": null
-  },
-  {
-    "materials": [],
-    "ask": {
-      "type": "T",
-      "text": "They read a book"
-    },
-    "choices": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "kids reading a book"
-        },
-        "isCorrect": true
-      },
-      {
-        "index": 1,
-        "content": {
-          "type": "T",
-          "text": "kids reading a map"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 2,
-        "content": {
-          "type": "T",
-          "text": "kids reading a letter"
+          "text": "They are small."
         },
         "isCorrect": false
       }
@@ -445,8 +450,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 11.80초
-

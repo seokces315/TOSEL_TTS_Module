@@ -1,25 +1,16 @@
-
 [
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: Do you like math class?\nW: Yes, it's interesting.\nM: Are you ready for the test tomorrow?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "Can you help me with my homework?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I studied a lot for it"
+          "text": "Sure, I’d be happy to help."
         },
         "isCorrect": true
       },
@@ -27,7 +18,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I think it's too late"
+          "text": "I am going to the store."
         },
         "isCorrect": false
       },
@@ -35,7 +26,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I forgot my lunch today"
+          "text": "The weather is nice today."
         },
         "isCorrect": false
       },
@@ -43,7 +34,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I am going to the park"
+          "text": "It's on the table."
         },
         "isCorrect": false
       }
@@ -54,25 +45,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: How much is this sweater?\nW: It's $20.\nM: Do you have it in blue?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "Why is the playground closed today?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, we have blue in your size"
+          "text": "They are repairing the swings."
         },
         "isCorrect": true
       },
@@ -80,7 +63,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "The store opens at 10"
+          "text": "I like playing soccer."
         },
         "isCorrect": false
       },
@@ -88,7 +71,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I think it's too big"
+          "text": "She’s my best friend."
         },
         "isCorrect": false
       },
@@ -96,7 +79,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I need a new backpack"
+          "text": "We have math class soon."
         },
         "isCorrect": false
       }
@@ -107,25 +90,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: Are you going to the party?\nW: Yes, I am.\nM: What time will you get there?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "What do you think of this book?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I'll arrive around 7 PM"
+          "text": "It’s really interesting."
         },
         "isCorrect": true
       },
@@ -133,7 +108,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I like the blue dress"
+          "text": "I will go home now."
         },
         "isCorrect": false
       },
@@ -141,7 +116,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "The weather is nice today"
+          "text": "It’s on the shelf."
         },
         "isCorrect": false
       },
@@ -149,7 +124,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "My brother is playing soccer"
+          "text": "We have a test tomorrow."
         },
         "isCorrect": false
       }
@@ -160,25 +135,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: Do you play any sports?\nW: I play tennis.\nM: Do you play on weekends?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "Where did you leave your backpack?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, I play every Saturday"
+          "text": "It’s in the classroom."
         },
         "isCorrect": true
       },
@@ -186,7 +153,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I need a new racket"
+          "text": "I like to draw."
         },
         "isCorrect": false
       },
@@ -194,7 +161,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "The game starts at noon"
+          "text": "She is very tall."
         },
         "isCorrect": false
       },
@@ -202,7 +169,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "My shoes are red"
+          "text": "It's blue and red."
         },
         "isCorrect": false
       }
@@ -213,25 +180,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: What book are you reading?\nW: It's about animals.\nM: Is it interesting?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "Can we go to the park later?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, I love learning about them"
+          "text": "Yes, that sounds fun."
         },
         "isCorrect": true
       },
@@ -239,7 +198,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I think it’s a sunny day"
+          "text": "I have a new pen."
         },
         "isCorrect": false
       },
@@ -247,7 +206,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "My favorite color is green"
+          "text": "The park is over there."
         },
         "isCorrect": false
       },
@@ -255,7 +214,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I have a new backpack"
+          "text": "I will finish my homework."
         },
         "isCorrect": false
       }
@@ -266,8 +225,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 10.66초
-

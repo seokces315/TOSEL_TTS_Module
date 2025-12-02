@@ -1,17 +1,16 @@
-
 [
   {
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "The cat is sleeping."
+      "text": "Where is my backpack?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a cat sleeping on a mat"
+          "text": "It's in your bedroom."
         },
         "isCorrect": true
       },
@@ -19,7 +18,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a cat eating food"
+          "text": "She is my sister."
         },
         "isCorrect": false
       },
@@ -27,15 +26,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a cat climbing a tree"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "a cat playing with yarn"
+          "text": "We can go tomorrow."
         },
         "isCorrect": false
       }
@@ -49,14 +40,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "He rides a bicycle."
+      "text": "Is it raining outside?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a boy riding a bicycle"
+          "text": "Yes, take your umbrella."
         },
         "isCorrect": true
       },
@@ -64,7 +55,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a boy flying a kite"
+          "text": "No, I like apples."
         },
         "isCorrect": false
       },
@@ -72,15 +63,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a boy reading a book"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "a boy playing soccer"
+          "text": "Yes, she can swim."
         },
         "isCorrect": false
       }
@@ -94,14 +77,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "The sun is shining."
+      "text": "Please open the window."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a sunny beach"
+          "text": "Sure, I'll do it now."
         },
         "isCorrect": true
       },
@@ -109,7 +92,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a rainy street"
+          "text": "It's a sunny day."
         },
         "isCorrect": false
       },
@@ -117,15 +100,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a snowy park"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "a cloudy mountain"
+          "text": "Where is your book?"
         },
         "isCorrect": false
       }
@@ -139,14 +114,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "She holds a balloon."
+      "text": "What time is dinner?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a girl holding a balloon"
+          "text": "It's at 6 o'clock."
         },
         "isCorrect": true
       },
@@ -154,7 +129,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a girl holding a doll"
+          "text": "I have a blue pen."
         },
         "isCorrect": false
       },
@@ -162,15 +137,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a girl holding a teddy bear"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "a girl holding a book"
+          "text": "She likes to dance."
         },
         "isCorrect": false
       }
@@ -184,14 +151,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "The bird is blue."
+      "text": "I forgot my homework."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a blue bird on a branch"
+          "text": "You should tell the teacher."
         },
         "isCorrect": true
       },
@@ -199,7 +166,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a red bird flying high"
+          "text": "What is your favorite color?"
         },
         "isCorrect": false
       },
@@ -207,15 +174,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a green bird in a nest"
-        },
-        "isCorrect": false
-      },
-      {
-        "index": 3,
-        "content": {
-          "type": "T",
-          "text": "a yellow bird on the ground"
+          "text": "Yes, I am very hungry."
         },
         "isCorrect": false
       }
@@ -226,8 +185,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 6.77초
-

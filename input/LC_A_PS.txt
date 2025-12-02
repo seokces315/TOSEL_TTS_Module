@@ -1,25 +1,16 @@
-
 [
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: Are you going to the school dance on Friday?\nW: Yes, I am. I’m really excited about it.\nM: Who are you going with?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "The cat is sleeping."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I’m going with my best friend."
+          "text": "a sleeping cat"
         },
         "isCorrect": true
       },
@@ -27,7 +18,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I need to finish my homework."
+          "text": "a running dog"
         },
         "isCorrect": false
       },
@@ -35,7 +26,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "The dance starts at 7 PM."
+          "text": "a jumping rabbit"
         },
         "isCorrect": false
       },
@@ -43,7 +34,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "We should go shopping for snacks."
+          "text": "a flying bird"
         },
         "isCorrect": false
       }
@@ -54,25 +45,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: I think I lost my history textbook.\nW: Did you check your locker?\nM: Yes, I looked everywhere. What should I do now?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "It is raining today."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "You could ask the teacher for a spare one."
+          "text": "a rainy day"
         },
         "isCorrect": true
       },
@@ -80,7 +63,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I’m going to the library after school."
+          "text": "a sunny day"
         },
         "isCorrect": false
       },
@@ -88,7 +71,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "My brother loves reading too."
+          "text": "a snowy day"
         },
         "isCorrect": false
       },
@@ -96,7 +79,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "It’s really cold outside today."
+          "text": "a windy day"
         },
         "isCorrect": false
       }
@@ -107,25 +90,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: How was your weekend?\nW: It was great. I went hiking with my family.\nM: Sounds fun! Where did you go?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "She has a red apple."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "We went to the Blue Mountain Trail."
+          "text": "a girl with a red apple"
         },
         "isCorrect": true
       },
@@ -133,7 +108,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I have a math test tomorrow."
+          "text": "a boy with a green apple"
         },
         "isCorrect": false
       },
@@ -141,7 +116,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "My favorite color is blue."
+          "text": "a woman with a banana"
         },
         "isCorrect": false
       },
@@ -149,7 +124,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "The movie starts at 6 PM."
+          "text": "a man with an orange"
         },
         "isCorrect": false
       }
@@ -160,25 +135,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: Do you play any musical instruments?\nW: Yes, I play the piano.\nM: That’s cool! How long have you been playing?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "The horse runs fast."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I’ve been playing for five years."
+          "text": "a fast-running horse"
         },
         "isCorrect": true
       },
@@ -186,7 +153,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I prefer reading books."
+          "text": "a slow-moving turtle"
         },
         "isCorrect": false
       },
@@ -194,7 +161,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "My friend likes basketball."
+          "text": "a crawling snail"
         },
         "isCorrect": false
       },
@@ -202,7 +169,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "The weather is nice today."
+          "text": "a walking duck"
         },
         "isCorrect": false
       }
@@ -213,25 +180,17 @@
     "createdUserId": null
   },
   {
-    "materials": [
-      {
-        "index": 0,
-        "content": {
-          "type": "T",
-          "text": "M: I think this shirt is too big for me.\nW: You can try a smaller size if you want.\nM: Where can I find it?"
-        }
-      }
-    ],
+    "materials": [],
     "ask": {
       "type": "T",
-      "text": "What’s next?"
+      "text": "He is a bus driver."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "It’s in the aisle on your right."
+          "text": "a man driving a bus"
         },
         "isCorrect": true
       },
@@ -239,7 +198,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I’m going to the beach tomorrow."
+          "text": "a woman riding a bike"
         },
         "isCorrect": false
       },
@@ -247,7 +206,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "My sister loves shopping."
+          "text": "a boy flying a kite"
         },
         "isCorrect": false
       },
@@ -255,7 +214,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "The concert was amazing last night."
+          "text": "a girl swimming in a pool"
         },
         "isCorrect": false
       }
@@ -266,8 +225,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 13.23초
-

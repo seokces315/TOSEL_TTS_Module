@@ -1,4 +1,3 @@
-
 [
   {
     "materials": [
@@ -6,20 +5,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "The bell rings at 8:00 AM at Greenfield School. All students must be in their classrooms by then. Today, we will have a fire drill at 10:30 AM. Please listen for the alarm and follow your teacher outside."
+          "text": "Today’s weather forecast predicts light rain in the afternoon, with temperatures ranging from 10 to 15 degrees Celsius. Winds are expected to be mild, coming from the northwest at around 10 kilometers per hour. Overnight, skies will clear, leading to a cooler morning tomorrow, with temperatures dropping to around 5 degrees."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What time does the bell ring at Greenfield School?"
+      "text": "What is the weather forecast for the afternoon?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "8:00 AM"
+          "text": "Light rain"
         },
         "isCorrect": true
       },
@@ -27,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "10:00 AM"
+          "text": "Heavy thunderstorms"
         },
         "isCorrect": false
       },
@@ -35,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "9:00 AM"
+          "text": "Clear skies"
         },
         "isCorrect": false
       },
@@ -43,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "11:00 AM"
+          "text": "Snowfall"
         },
         "isCorrect": false
       }
@@ -59,20 +58,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "The bell rings at 8:00 AM at Greenfield School. All students must be in their classrooms by then. Today, we will have a fire drill at 10:30 AM. Please listen for the alarm and follow your teacher outside."
+          "text": "Today’s weather forecast predicts light rain in the afternoon, with temperatures ranging from 10 to 15 degrees Celsius. Winds are expected to be mild, coming from the northwest at around 10 kilometers per hour. Overnight, skies will clear, leading to a cooler morning tomorrow, with temperatures dropping to around 5 degrees."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What will happen at 10:30 AM?"
+      "text": "What is expected to happen overnight?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a fire drill"
+          "text": "Skies will clear"
         },
         "isCorrect": true
       },
@@ -80,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a math test"
+          "text": "Rain will continue"
         },
         "isCorrect": false
       },
@@ -88,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "lunch break"
+          "text": "Winds will increase"
         },
         "isCorrect": false
       },
@@ -96,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a school play"
+          "text": "Temperatures will rise"
         },
         "isCorrect": false
       }
@@ -112,20 +111,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Max the rabbit loved eating carrots. Every day, he hopped to the garden. But one day, the garden gate was closed. Max was sad. He sniffed around and found a hole under the fence. He squeezed through and happily ate the carrots."
+          "text": "Join us this Saturday for the grand opening of Green Valley Market! Our doors open at 9 a.m., offering a wide range of organic produce and locally sourced products. Enjoy free samples throughout the day, and the first 50 customers will receive a special gift bag. Don't miss the live music and fun activities for all ages."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "Why was Max sad?"
+      "text": "What event is happening on Saturday?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "the gate was closed"
+          "text": "Grand opening of a market"
         },
         "isCorrect": true
       },
@@ -133,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "it was raining"
+          "text": "Launch of a new product line"
         },
         "isCorrect": false
       },
@@ -141,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "he lost his friend"
+          "text": "Anniversary sale"
         },
         "isCorrect": false
       },
@@ -149,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "he was tired"
+          "text": "Cooking class"
         },
         "isCorrect": false
       }
@@ -165,20 +164,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Max the rabbit loved eating carrots. Every day, he hopped to the garden. But one day, the garden gate was closed. Max was sad. He sniffed around and found a hole under the fence. He squeezed through and happily ate the carrots."
+          "text": "Join us this Saturday for the grand opening of Green Valley Market! Our doors open at 9 a.m., offering a wide range of organic produce and locally sourced products. Enjoy free samples throughout the day, and the first 50 customers will receive a special gift bag. Don't miss the live music and fun activities for all ages."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "How did Max get into the garden?"
+      "text": "What is a special offer for early customers?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "through a hole"
+          "text": "Special gift bag"
         },
         "isCorrect": true
       },
@@ -186,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "over the wall"
+          "text": "Discount on all items"
         },
         "isCorrect": false
       },
@@ -194,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "through the gate"
+          "text": "Free parking"
         },
         "isCorrect": false
       },
@@ -202,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "by jumping high"
+          "text": "Free membership"
         },
         "isCorrect": false
       }
@@ -218,20 +217,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yesterday, I went to the park with my dog, Rex. We played fetch with his favorite ball. A big black bird flew by and Rex chased it. I laughed and called him back. We sat on the grass and watched the sunset."
+          "text": "Professor Smith will present her findings on climate change impacts at the environmental conference. Her lecture, titled \"The Changing Landscape,\" will begin at 10 a.m. in the main auditorium. Attendees will gain insights into recent research on rising sea levels and global temperature trends. A question-and-answer session will follow her presentation."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "Who is Rex?"
+      "text": "What is the main topic of Professor Smith's lecture?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "the girl’s dog"
+          "text": "Climate change impacts"
         },
         "isCorrect": true
       },
@@ -239,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "the girl’s friend"
+          "text": "Economic growth"
         },
         "isCorrect": false
       },
@@ -247,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "the girl’s brother"
+          "text": "Technological advancements"
         },
         "isCorrect": false
       },
@@ -255,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "the girl’s teacher"
+          "text": "Cultural preservation"
         },
         "isCorrect": false
       }
@@ -271,20 +270,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yesterday, I went to the park with my dog, Rex. We played fetch with his favorite ball. A big black bird flew by and Rex chased it. I laughed and called him back. We sat on the grass and watched the sunset."
+          "text": "Professor Smith will present her findings on climate change impacts at the environmental conference. Her lecture, titled \"The Changing Landscape,\" will begin at 10 a.m. in the main auditorium. Attendees will gain insights into recent research on rising sea levels and global temperature trends. A question-and-answer session will follow her presentation."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What did Rex chase?"
+      "text": "What will happen after Professor Smith's lecture?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a big bird"
+          "text": "A question-and-answer session"
         },
         "isCorrect": true
       },
@@ -292,7 +291,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a red ball"
+          "text": "A networking event"
         },
         "isCorrect": false
       },
@@ -300,7 +299,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a small cat"
+          "text": "A panel discussion"
         },
         "isCorrect": false
       },
@@ -308,7 +307,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a green kite"
+          "text": "A lunch break"
         },
         "isCorrect": false
       }
@@ -324,20 +323,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Welcome to Sunnyville Zoo! Today, we have a special show at 2:00 PM with the lions. The show is at the main stage. Please be seated 10 minutes before it starts. Enjoy your visit and see the animals!"
+          "text": "Attention passengers on Flight 732 to New York City. Due to unforeseen circumstances, the flight is now scheduled to depart at 3:30 p.m. Passengers are advised to remain near Gate 15 for further updates. We apologize for any inconvenience this may cause and appreciate your patience and understanding."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What time is the special show?"
+      "text": "What change has been announced for Flight 732?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "2:00 PM"
+          "text": "Departure time"
         },
         "isCorrect": true
       },
@@ -345,7 +344,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "3:00 PM"
+          "text": "Arrival gate"
         },
         "isCorrect": false
       },
@@ -353,7 +352,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "1:00 PM"
+          "text": "Flight number"
         },
         "isCorrect": false
       },
@@ -361,7 +360,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "4:00 PM"
+          "text": "Destination"
         },
         "isCorrect": false
       }
@@ -377,20 +376,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Welcome to Sunnyville Zoo! Today, we have a special show at 2:00 PM with the lions. The show is at the main stage. Please be seated 10 minutes before it starts. Enjoy your visit and see the animals!"
+          "text": "Attention passengers on Flight 732 to New York City. Due to unforeseen circumstances, the flight is now scheduled to depart at 3:30 p.m. Passengers are advised to remain near Gate 15 for further updates. We apologize for any inconvenience this may cause and appreciate your patience and understanding."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "Where is the show?"
+      "text": "What are passengers advised to do?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "the main stage"
+          "text": "Remain near Gate 15"
         },
         "isCorrect": true
       },
@@ -398,7 +397,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "the lion’s den"
+          "text": "Go to the ticket counter"
         },
         "isCorrect": false
       },
@@ -406,7 +405,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "the zoo entrance"
+          "text": "Board immediately"
         },
         "isCorrect": false
       },
@@ -414,7 +413,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "the picnic area"
+          "text": "Change their flight"
         },
         "isCorrect": false
       }
@@ -430,20 +429,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "My favorite teacher is Mr. Lee. He always wears a blue tie. He teaches science and makes it fun. He has a pet lizard in the classroom. Every Friday, he tells us interesting stories about space."
+          "text": "An emergency evacuation drill will take place in the building at 11 a.m. tomorrow. All occupants are required to participate. Please familiarize yourself with the nearest exits and assembly points. The drill aims to ensure everyone is prepared in the event of an actual emergency."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What subject does Mr. Lee teach?"
+      "text": "What is the purpose of the drill?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "science"
+          "text": "Ensure preparedness for emergencies"
         },
         "isCorrect": true
       },
@@ -451,7 +450,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "math"
+          "text": "Test new security equipment"
         },
         "isCorrect": false
       },
@@ -459,7 +458,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "history"
+          "text": "Conduct a fire inspection"
         },
         "isCorrect": false
       },
@@ -467,7 +466,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "art"
+          "text": "Train new employees"
         },
         "isCorrect": false
       }
@@ -483,20 +482,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "My favorite teacher is Mr. Lee. He always wears a blue tie. He teaches science and makes it fun. He has a pet lizard in the classroom. Every Friday, he tells us interesting stories about space."
+          "text": "An emergency evacuation drill will take place in the building at 11 a.m. tomorrow. All occupants are required to participate. Please familiarize yourself with the nearest exits and assembly points. The drill aims to ensure everyone is prepared in the event of an actual emergency."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What does Mr. Lee have in the classroom?"
+      "text": "What are occupants required to do during the drill?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a pet lizard"
+          "text": "Participate in the evacuation"
         },
         "isCorrect": true
       },
@@ -504,7 +503,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a pet dog"
+          "text": "Stay in their offices"
         },
         "isCorrect": false
       },
@@ -512,7 +511,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a big fish"
+          "text": "Report to security"
         },
         "isCorrect": false
       },
@@ -520,7 +519,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a small cat"
+          "text": "Watch an instructional video"
         },
         "isCorrect": false
       }
@@ -531,8 +530,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 16.41초
-

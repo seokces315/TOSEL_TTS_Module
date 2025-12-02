@@ -1,4 +1,3 @@
-
 [
   {
     "materials": [
@@ -6,20 +5,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Sarah loves fruits. She eats an apple for breakfast. At lunch, she has a banana. For dinner, she enjoys some grapes. She always eats fruits every day."
+          "text": "Can you help me with my homework this evening?"
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What does Sarah eat for lunch?"
+      "text": "Can you help me with my homework this evening?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a banana"
+          "text": "Sure, I’ll come over after dinner."
         },
         "isCorrect": true
       },
@@ -27,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "an apple"
+          "text": "No, I don’t like ice cream."
         },
         "isCorrect": false
       },
@@ -35,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "grapes"
+          "text": "Yes, the weather is nice today."
         },
         "isCorrect": false
       },
@@ -43,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "an orange"
+          "text": "I haven’t seen that movie yet."
         },
         "isCorrect": false
       }
@@ -59,20 +58,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Tom has a pet. It is small and furry. It likes to run and play. It has a long tail. Tom feeds it carrots every day."
+          "text": "Why do you think he didn’t come to the party?"
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is Tom's pet?"
+      "text": "Why do you think he didn’t come to the party?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a hamster"
+          "text": "Maybe he was feeling unwell."
         },
         "isCorrect": true
       },
@@ -80,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a dog"
+          "text": "I’ll invite him next time."
         },
         "isCorrect": false
       },
@@ -88,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a cat"
+          "text": "Yes, I’ll bring the cake."
         },
         "isCorrect": false
       },
@@ -96,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a bird"
+          "text": "The music was too loud."
         },
         "isCorrect": false
       }
@@ -112,20 +111,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Lucy visits the zoo. She sees a tall giraffe. Then, she watches the lions. Later, she looks at the playful monkeys. Before leaving, she visits the elephants."
+          "text": "I’m really nervous about the exam tomorrow."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What animal does Lucy see first at the zoo?"
+      "text": "I’m really nervous about the exam tomorrow."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a tall giraffe"
+          "text": "Don’t worry, you’ve studied hard."
         },
         "isCorrect": true
       },
@@ -133,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a lion"
+          "text": "Did you see the new movie?"
         },
         "isCorrect": false
       },
@@ -141,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a monkey"
+          "text": "That’s a beautiful painting."
         },
         "isCorrect": false
       },
@@ -149,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "an elephant"
+          "text": "Let’s meet at the park later."
         },
         "isCorrect": false
       }
@@ -165,20 +164,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "It is 8 o'clock in the morning. John gets ready for school. He brushes his teeth. Then, he puts on his shoes. He leaves home at 8:30 AM."
+          "text": "We need to clean up the garage this weekend."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What time does John leave home?"
+      "text": "We need to clean up the garage this weekend."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "at 8:30 AM"
+          "text": "I’ll get the cleaning supplies ready."
         },
         "isCorrect": true
       },
@@ -186,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "at 8:00 AM"
+          "text": "What time is the meeting?"
         },
         "isCorrect": false
       },
@@ -194,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "at 9:00 AM"
+          "text": "Yes, I love that book."
         },
         "isCorrect": false
       },
@@ -202,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "at 7:30 AM"
+          "text": "I’m going to the mall later."
         },
         "isCorrect": false
       }
@@ -218,20 +217,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Emma loves animals. She has three pets. A cat named Whiskers, a dog named Max, and a fish named Goldie. She feeds them every morning."
+          "text": "What time should we leave for the concert?"
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "How many pets does Emma have?"
+      "text": "What time should we leave for the concert?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "three"
+          "text": "Let’s leave around 6 PM to avoid traffic."
         },
         "isCorrect": true
       },
@@ -239,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "two"
+          "text": "I didn’t hear the announcement."
         },
         "isCorrect": false
       },
@@ -247,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "four"
+          "text": "Can you lend me a pen?"
         },
         "isCorrect": false
       },
@@ -255,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "five"
+          "text": "I’ll check the weather forecast."
         },
         "isCorrect": false
       }
@@ -266,8 +265,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 9.24초
-

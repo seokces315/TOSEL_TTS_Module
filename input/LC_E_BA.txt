@@ -1,4 +1,3 @@
-
 [
   {
     "materials": [
@@ -6,20 +5,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Can you help me with my math homework?"
+          "text": "W: What is your favorite fruit?\nM: I love strawberries the most."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "What is the man’s favorite fruit?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Sure, I'd be happy to assist."
+          "text": "strawberries"
         },
         "isCorrect": true
       },
@@ -27,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "Math isn't my favorite subject."
+          "text": "apples"
         },
         "isCorrect": false
       },
@@ -35,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I think it's too late now."
+          "text": "bananas"
         },
         "isCorrect": false
       },
@@ -43,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "You should try asking someone else."
+          "text": "oranges"
         },
         "isCorrect": false
       }
@@ -59,20 +58,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "The concert starts at 7 PM sharp."
+          "text": "W: Where did you go last weekend?\nM: I went to the science museum."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Where did the man go last weekend?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I will be there on time."
+          "text": "science museum"
         },
         "isCorrect": true
       },
@@ -80,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "How much are the tickets?"
+          "text": "art gallery"
         },
         "isCorrect": false
       },
@@ -88,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Let's grab dinner first."
+          "text": "zoo"
         },
         "isCorrect": false
       },
@@ -96,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I'm not a fan of concerts."
+          "text": "amusement park"
         },
         "isCorrect": false
       }
@@ -112,20 +111,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Why is the sky blue during the day?"
+          "text": "W: How many books did you read this month?\nM: I read four books."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "How many books did the man read this month?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "It's due to the scattering of light."
+          "text": "four"
         },
         "isCorrect": true
       },
@@ -133,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I prefer clear nights."
+          "text": "two"
         },
         "isCorrect": false
       },
@@ -141,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Because I like sunny days."
+          "text": "six"
         },
         "isCorrect": false
       },
@@ -149,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "Is it going to rain today?"
+          "text": "eight"
         },
         "isCorrect": false
       }
@@ -165,20 +164,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Please remember to submit your project by Friday."
+          "text": "W: Which sport do you like to play?\nM: I enjoy playing soccer."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Which sport does the man like to play?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I'll make sure it's done by then."
+          "text": "soccer"
         },
         "isCorrect": true
       },
@@ -186,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I haven't started it yet."
+          "text": "basketball"
         },
         "isCorrect": false
       },
@@ -194,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "What project are you talking about?"
+          "text": "tennis"
         },
         "isCorrect": false
       },
@@ -202,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I forgot about the deadline."
+          "text": "baseball"
         },
         "isCorrect": false
       }
@@ -218,20 +217,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I think climate change is a serious issue."
+          "text": "W: Why are you wearing a jacket today?\nM: It’s very cold outside."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Why is the man wearing a jacket today?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I completely agree with you."
+          "text": "very cold outside"
         },
         "isCorrect": true
       },
@@ -239,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "It's supposed to rain tomorrow."
+          "text": "raining outside"
         },
         "isCorrect": false
       },
@@ -247,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Do you like the cold weather?"
+          "text": "windy outside"
         },
         "isCorrect": false
       },
@@ -255,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I haven't seen any changes."
+          "text": "sunny outside"
         },
         "isCorrect": false
       }
@@ -266,8 +265,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 7.48초
-

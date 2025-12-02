@@ -1,17 +1,16 @@
-
 [
   {
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "Where is the library?"
+      "text": "The cat is sleeping on the chair."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "It’s next to the park."
+          "text": "a cat sleeping on a chair"
         },
         "isCorrect": true
       },
@@ -19,7 +18,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I like reading books."
+          "text": "a cat playing with a ball"
         },
         "isCorrect": false
       },
@@ -27,7 +26,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I have a new pencil."
+          "text": "a cat eating food"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a cat climbing a tree"
         },
         "isCorrect": false
       }
@@ -41,14 +48,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "Are you going to the party?"
+      "text": "The sun is shining brightly."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Yes, I will be there."
+          "text": "a sunny day"
         },
         "isCorrect": true
       },
@@ -56,7 +63,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "No, I have a dog."
+          "text": "a rainy day"
         },
         "isCorrect": false
       },
@@ -64,7 +71,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I like apples."
+          "text": "a cloudy sky"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a snowy landscape"
         },
         "isCorrect": false
       }
@@ -78,14 +93,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "I have a new bike."
+      "text": "The girl is reading a book."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "What color is it?"
+          "text": "a girl reading a book"
         },
         "isCorrect": true
       },
@@ -93,7 +108,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "Can you come over?"
+          "text": "a girl drawing a picture"
         },
         "isCorrect": false
       },
@@ -101,7 +116,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I don’t like swimming."
+          "text": "a girl listening to music"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a girl watching TV"
         },
         "isCorrect": false
       }
@@ -115,14 +138,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "Can you help me with this?"
+      "text": "The apple is red and shiny."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Sure, what do you need?"
+          "text": "a red apple"
         },
         "isCorrect": true
       },
@@ -130,7 +153,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "No, I can’t find my book."
+          "text": "a green apple"
         },
         "isCorrect": false
       },
@@ -138,7 +161,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Yes, it is a sunny day."
+          "text": "a yellow banana"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "an orange carrot"
         },
         "isCorrect": false
       }
@@ -152,14 +183,14 @@
     "materials": [],
     "ask": {
       "type": "T",
-      "text": "Why is the sky blue?"
+      "text": "The bird is flying in the sky."
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Because of the way light works."
+          "text": "a bird flying in the sky"
         },
         "isCorrect": true
       },
@@ -167,7 +198,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I have a blue shirt."
+          "text": "a bird sitting on a branch"
         },
         "isCorrect": false
       },
@@ -175,7 +206,15 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "I’m going to the store."
+          "text": "a bird drinking water"
+        },
+        "isCorrect": false
+      },
+      {
+        "index": 3,
+        "content": {
+          "type": "T",
+          "text": "a bird walking on the ground"
         },
         "isCorrect": false
       }
@@ -186,8 +225,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 7.12초
-

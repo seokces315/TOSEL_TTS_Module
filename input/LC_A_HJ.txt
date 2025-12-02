@@ -1,4 +1,3 @@
-
 [
   {
     "materials": [
@@ -6,20 +5,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Could you please turn down the music a bit?"
+          "text": "M: The cat has been staring out the window for hours.\nW: It must be fascinated by the birds outside."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Sure, I’ll lower the volume right away."
+          "text": "a cat looking out a window"
         },
         "isCorrect": true
       },
@@ -27,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "It's my favorite song, actually."
+          "text": "a dog playing with a ball"
         },
         "isCorrect": false
       },
@@ -35,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "The party is just getting started."
+          "text": "a bird sitting on a tree branch"
         },
         "isCorrect": false
       },
@@ -43,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I don't mind the noise at all."
+          "text": "a fish swimming in a tank"
         },
         "isCorrect": false
       }
@@ -59,20 +58,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I think the new policy will improve our work environment significantly."
+          "text": "M: Did you see how meticulously she painted that landscape?\nW: Yes, her attention to detail is extraordinary."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I agree, it sounds promising."
+          "text": "a woman painting a landscape"
         },
         "isCorrect": true
       },
@@ -80,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I haven't read the details yet."
+          "text": "a man sculpting a statue"
         },
         "isCorrect": false
       },
@@ -88,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Policies often change quickly."
+          "text": "a child drawing with crayons"
         },
         "isCorrect": false
       },
@@ -96,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "It might be hard to implement."
+          "text": "an artist sketching a portrait"
         },
         "isCorrect": false
       }
@@ -112,20 +111,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Why didn't you attend the meeting yesterday?"
+          "text": "W: I can't believe how many books he reads in a week.\nM: He truly is a voracious reader."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I was feeling unwell and couldn't make it."
+          "text": "a man surrounded by stacks of books"
         },
         "isCorrect": true
       },
@@ -133,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I heard it was quite productive."
+          "text": "a woman writing in a journal"
         },
         "isCorrect": false
       },
@@ -141,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Meetings are usually on Tuesdays."
+          "text": "a student typing on a laptop"
         },
         "isCorrect": false
       },
@@ -149,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "I prefer written updates instead."
+          "text": "a teacher lecturing in a classroom"
         },
         "isCorrect": false
       }
@@ -165,20 +164,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "Please ensure the report is submitted by Friday afternoon."
+          "text": "M: She wore that red dress to the gala last night.\nW: It certainly made her stand out in the crowd."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I will have it ready by then."
+          "text": "a woman in a red dress"
         },
         "isCorrect": true
       },
@@ -186,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "I sent it last week."
+          "text": "a man in a black tuxedo"
         },
         "isCorrect": false
       },
@@ -194,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Reports are due every month."
+          "text": "a child in a blue suit"
         },
         "isCorrect": false
       },
@@ -202,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "It requires more data collection."
+          "text": "a girl in a yellow skirt"
         },
         "isCorrect": false
       }
@@ -218,20 +217,20 @@
         "index": 0,
         "content": {
           "type": "T",
-          "text": "How do you feel about moving to the new office downtown?"
+          "text": "W: The cake she baked was a masterpiece of culinary art.\nM: Everyone at the party was raving about its taste."
         }
       }
     ],
     "ask": {
       "type": "T",
-      "text": "What is the best response?"
+      "text": "Describe an image reflecting the situation of the dialogue"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "I'm excited about the change."
+          "text": "a beautifully decorated cake"
         },
         "isCorrect": true
       },
@@ -239,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "It's too far from my home."
+          "text": "a bowl of fresh fruit"
         },
         "isCorrect": false
       },
@@ -247,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "Offices should be centrally located."
+          "text": "a plate of assorted cookies"
         },
         "isCorrect": false
       },
@@ -255,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "Moving can be quite stressful."
+          "text": "a tray of colorful cupcakes"
         },
         "isCorrect": false
       }
@@ -266,8 +265,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 9.75초
-

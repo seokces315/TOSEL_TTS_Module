@@ -1,17 +1,24 @@
-
 [
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Do you think it will rain tomorrow?"
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "The cat is sleeping."
+      "text": "What is the best response?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a cat sleeping on a bed"
+          "text": "The forecast says it’s likely"
         },
         "isCorrect": true
       },
@@ -19,7 +26,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a cat playing with a ball"
+          "text": "Yes, I saw a bird"
         },
         "isCorrect": false
       },
@@ -27,7 +34,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a dog sleeping on a bed"
+          "text": "No, I’m wearing red"
         },
         "isCorrect": false
       },
@@ -35,7 +42,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a cat eating from a bowl"
+          "text": "Yes, let’s wait for a while"
         },
         "isCorrect": false
       }
@@ -46,17 +53,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Please turn off the lights when you leave the room."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "The sun is shining."
+      "text": "What is the best response?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a bright sun in the sky"
+          "text": "Sure, I’ll do that right away"
         },
         "isCorrect": true
       },
@@ -64,7 +79,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "clouds covering the sun"
+          "text": "I’m leaving in ten minutes"
         },
         "isCorrect": false
       },
@@ -72,7 +87,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a moon shining in the night"
+          "text": "It’s quite bright outside"
         },
         "isCorrect": false
       },
@@ -80,7 +95,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a rainy day with no sun"
+          "text": "The room is already empty"
         },
         "isCorrect": false
       }
@@ -91,17 +106,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "The novel was thrilling from start to finish."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "The girl is reading a book."
+      "text": "What is the best response?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a girl reading a book"
+          "text": "I couldn’t put it down either"
         },
         "isCorrect": true
       },
@@ -109,7 +132,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a girl drawing a picture"
+          "text": "It’s on the top shelf"
         },
         "isCorrect": false
       },
@@ -117,7 +140,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a boy reading a newspaper"
+          "text": "I’ll start it next week"
         },
         "isCorrect": false
       },
@@ -125,7 +148,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a girl watching TV"
+          "text": "It’s a long read"
         },
         "isCorrect": false
       }
@@ -136,17 +159,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "Why did you choose that university?"
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "The car is red."
+      "text": "What is the best response?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a red car in the garage"
+          "text": "It has the best program for my major"
         },
         "isCorrect": true
       },
@@ -154,7 +185,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a blue car on the road"
+          "text": "I didn’t go there last summer"
         },
         "isCorrect": false
       },
@@ -162,7 +193,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a green bicycle by the tree"
+          "text": "It’s located in the city"
         },
         "isCorrect": false
       },
@@ -170,7 +201,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a red truck in the parking lot"
+          "text": "I chose it randomly"
         },
         "isCorrect": false
       }
@@ -181,17 +212,25 @@
     "createdUserId": null
   },
   {
-    "materials": [],
+    "materials": [
+      {
+        "index": 0,
+        "content": {
+          "type": "T",
+          "text": "I’m feeling really stressed about the upcoming exams."
+        }
+      }
+    ],
     "ask": {
       "type": "T",
-      "text": "The teacher is writing on the board."
+      "text": "What is the best response?"
     },
     "choices": [
       {
         "index": 0,
         "content": {
           "type": "T",
-          "text": "a teacher writing on the board"
+          "text": "Let’s create a study plan together"
         },
         "isCorrect": true
       },
@@ -199,7 +238,7 @@
         "index": 1,
         "content": {
           "type": "T",
-          "text": "a teacher reading a book"
+          "text": "Exams are always difficult"
         },
         "isCorrect": false
       },
@@ -207,7 +246,7 @@
         "index": 2,
         "content": {
           "type": "T",
-          "text": "a student writing on the board"
+          "text": "You should take a nap"
         },
         "isCorrect": false
       },
@@ -215,7 +254,7 @@
         "index": 3,
         "content": {
           "type": "T",
-          "text": "a teacher drawing on paper"
+          "text": "The exams are next month"
         },
         "isCorrect": false
       }
@@ -226,8 +265,3 @@
     "createdUserId": null
   }
 ]
-
-==============================
-
-Elapsed time: 7.58초
-
