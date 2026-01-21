@@ -1,46 +1,89 @@
 from argparser import get_args
 
-from loader import load_question_list
+from loader import load_csv
 
-from pipeline.schema import extract_from_schema
+from pipeline.base import (
+    generate_tts_modules,
+    parse_script,
+    merge_utterances,
+    save_audio,
+)
 
-from utils.config import TTSModelConfig
+from dotenv import load_dotenv
 
-from pipeline.base import run_tts_pipeline
+load_dotenv()
 
-import time
+import os
 
 
 # Main flow
 def main(args):
-    # Measure execution time
-    start_time = time.time()
+    # Extract the level identifier from the data filename
+    data_file = args.data_file[:-4]
 
-    # Loads the question list based on the selected parameters
-    problem_type = args.problem_type
-    level = args.level
-    input_path = f"../input/LC_{problem_type}_{level}.txt"
-    question_list = load_question_list(input_path=input_path)
+    # Load a CV file from the specified data path
+    item_df = load_csv(data_path=f"../data/{args.data_file}")
 
-    # Extract structured items from the question schema
-    item_list = extract_from_schema(question_list=question_list)
-
-    # Initialize the TTS configuration using the provided model ID
-    model_id = args.model_id
-    voice = args.voice
+    # Get the configurations from environment variables and command-line arguments
+    openai_api_key = os.getenv("OPENAI_API_KEY")
+    tts_model_id = os.getenv("TTS_MODEL_ID")
+    voices = args.voices
     speed = args.speed
-    tts_config = TTSModelConfig(model_id=model_id, voice=voice, speed=speed)
 
-    # Run the TTS pipeline
-    item = item_list[0]
-    base_path = f"../output/LC_{problem_type}_{level}"
-    run_tts_pipeline(tts_config=tts_config, item=item, base_path=base_path)
+    # Initialize TTS modules
+    tts_modules = generate_tts_modules(
+        api_key=openai_api_key, model_id=tts_model_id, voices=voices, speed=speed
+    )
 
-    # Print execution time
-    end_time = time.time()
-    elapsed = end_time - start_time
-    print(f"Elapsed time: {elapsed:.2f}초")
-    print()
+    # Iterate over each row in the DataFrame
+    for _, row in item_df.iterrows():
+        if row["Type"] == "C":
+            # Parse the script text from the row
+            utterance_pair = parse_script(row["Script"])
+
+            for idx, (speaker, utterance) in enumerate(utterance_pair):
+                if speaker == "M":
+                    audio_bytes = tts_modules[0].synthesize(utterance)
+                elif speaker == "W":
+                    audio_bytes = tts_modules[1].synthesize(utterance)
+                elif speaker == "B":
+                    audio_bytes = tts_modules[2].synthesize(utterance)
+                else:
+                    audio_bytes = tts_modules[3].synthesize(utterance)
+
+                # Construct the filename by utterance index
+                flie_name = f'{data_file}_LC{row["No."]}_C{idx}'
+
+                # Save the generated audio bytes to the output file
+                save_audio(output_path=f"../res/{file_name}", audio_bytes=audio_bytes)
+        else:
+            # Construct the filename by item type
+            if row["Type"] == "M":
+                file_name = f'{data_file}_LC{row["No."]}_M'
+            else:
+                file_name = f'{data_file}_LC{row["No."]}_A'
+
+            # Parse the script text from the row
+            utterance_pair = parse_script(row["Script"])
+
+            # Collect synthesized audio bytes for each utterance
+            utterances = list()
+            for speaker, utterance in utterance_pair:
+                if speaker == "M" or speaker == "Q":
+                    utterance = tts_modules[0].synthesize(utterance)
+                elif speaker == "W":
+                    utterance = tts_modules[1].synthesize(utterance)
+                elif speaker == "B":
+                    utterance = tts_modules[2].synthesize(utterance)
+                else:
+                    utterance = tts_modules[3].synthesize(utterance)
+                utterances.append(utterance)
+
+            # Merge all utterance audio into a single dialog track with pauses
+            audio_bytes = merge_utterances(utterances=utterances)
+
+            # Save the generated audio bytes to the output file
+            save_audio(output_path=f"../res/{file_name}", audio_bytes=audio_bytes)
 
 
 if __name__ == "__main__":

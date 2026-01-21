@@ -1,11 +1,23 @@
-import json
+import pandas as pd
 
 
-# Loads and returns the list of questions
-def load_question_list(input_path):
-    # Opens the file containing the question list
-    with open(input_path, "r", encoding="utf-8") as f:
-        # Parses the JSON content into a Python list
-        question_list = json.load(f)
+# Load a CSV file into a pandas DataFrame
+def load_csv(data_path):
+    # Define general dtypes for text columns to ensure stable parsing
+    dtype = {
+        "No.": "string",
+        "Script": "string",
+        "Type": "string",
+    }
 
-    return question_list
+    # Load CSV with a robust parser
+    df = pd.read_csv(
+        data_path,
+        header=0,
+        dtype=dtype,
+        encoding="utf-8",
+        engine="python",
+    )
+
+    # Return the loaded DataFrame
+    return df

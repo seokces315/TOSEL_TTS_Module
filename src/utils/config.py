@@ -1,8 +1,4 @@
-from dotenv import load_dotenv
 from pydantic_settings import BaseSettings
-
-# Load environment variables
-load_dotenv()
 
 
 # Pydantic class
@@ -12,3 +8,6 @@ class TTSModelConfig(BaseSettings):
     voice: str
     speed: float
     response_format: str = "mp3"
+
+    class Config:
+        protected_namespaces = ()

@@ -7,11 +7,10 @@ def get_args():
     arg_parser = argparse.ArgumentParser(description="TOSEL TTS Module Settings")
 
     # Adds command-line arguments
-    arg_parser.add_argument("--problem_type", default="A", type=str)
-    arg_parser.add_argument("--level", default="ADV", type=str)
-
-    arg_parser.add_argument("--model_id", default="gpt-4o-mini-tts", type=str)
-    arg_parser.add_argument("--voice", default="echo", type=str)
+    arg_parser.add_argument("--data_file", default="92_PS.csv", type=str)
+    arg_parser.add_argument(
+        "--voices", nargs="+", default=["onyx", "coral", "alloy", "shimmer"], type=str
+    )
     arg_parser.add_argument("--speed", default=1.0, type=float)
 
     # Parses command-line arguments
