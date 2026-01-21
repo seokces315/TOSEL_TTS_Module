@@ -1,5 +1,5 @@
-from ..utils.config import TTSModelConfig
-from .components.tts_model import TTSModule
+from utils.config import TTSModelConfig
+from pipeline.components.tts_model import TTSModule
 
 from pydub import AudioSegment
 from io import BytesIO

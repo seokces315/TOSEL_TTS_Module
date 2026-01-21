@@ -18,11 +18,15 @@ import os
 
 # Main flow
 def main(args):
+    print("=" * 50)
+    print("[START] TTS Generation started!")
+    print()
+
     # Extract the level identifier from the data filename
     data_file = args.data_file[:-4]
 
     # Load a CV file from the specified data path
-    item_df = load_csv(data_path=f"../data/{args.data_file}")
+    item_df = load_csv(data_path=f"./data/{args.data_file}")
 
     # Get the configurations from environment variables and command-line arguments
     openai_api_key = os.getenv("OPENAI_API_KEY")
@@ -52,16 +56,17 @@ def main(args):
                     audio_bytes = tts_modules[3].synthesize(utterance)
 
                 # Construct the filename by utterance index
-                flie_name = f'{data_file}_LC{row["No."]}_C{idx}'
+                file_name = f'{data_file}_LC{row["No."]}_C{idx}.mp3'
 
                 # Save the generated audio bytes to the output file
-                save_audio(output_path=f"../res/{file_name}", audio_bytes=audio_bytes)
+                save_audio(output_path=f"./res/{file_name}", audio_bytes=audio_bytes)
+                print(f"[SAVED] {file_name}")
         else:
             # Construct the filename by item type
             if row["Type"] == "M":
-                file_name = f'{data_file}_LC{row["No."]}_M'
+                file_name = f'{data_file}_LC{row["No."]}_M.mp3'
             else:
-                file_name = f'{data_file}_LC{row["No."]}_A'
+                file_name = f'{data_file}_LC{row["No."]}_A.mp3'
 
             # Parse the script text from the row
             utterance_pair = parse_script(row["Script"])
@@ -83,7 +88,12 @@ def main(args):
             audio_bytes = merge_utterances(utterances=utterances)
 
             # Save the generated audio bytes to the output file
-            save_audio(output_path=f"../res/{file_name}", audio_bytes=audio_bytes)
+            save_audio(output_path=f"./res/{file_name}", audio_bytes=audio_bytes)
+            print(f"[SAVED] {file_name}")
+
+    print()
+    print("[END] TTS Generated finished.")
+    print("=" * 50)
 
 
 if __name__ == "__main__":
