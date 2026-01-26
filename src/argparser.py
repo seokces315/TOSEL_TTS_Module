@@ -9,7 +9,7 @@ def get_args():
     # Adds command-line arguments
     arg_parser.add_argument("--data_file", default="92_PS.csv", type=str)
     arg_parser.add_argument(
-        "--voices", nargs="+", default=["cedar", "marin", "cedar", "marin"], type=str
+        "--voices", nargs="+", default=["cedar", "marin", "alloy", "sage"], type=str
     )
     arg_parser.add_argument("--speed", default=1.0, type=float)
 
