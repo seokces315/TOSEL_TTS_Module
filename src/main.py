@@ -47,13 +47,13 @@ def main(args):
 
             for idx, (speaker, utterance) in enumerate(utterance_pair):
                 if speaker == "M":
-                    audio_bytes = tts_modules[0].synthesize(utterance)
+                    audio_bytes = tts_modules[0].synthesize(utterance.strip())
                 elif speaker == "W":
-                    audio_bytes = tts_modules[1].synthesize(utterance)
+                    audio_bytes = tts_modules[1].synthesize(utterance.strip())
                 elif speaker == "B":
-                    audio_bytes = tts_modules[2].synthesize(utterance)
+                    audio_bytes = tts_modules[2].synthesize(utterance.strip())
                 else:
-                    audio_bytes = tts_modules[3].synthesize(utterance)
+                    audio_bytes = tts_modules[3].synthesize(utterance.strip())
 
                 # Construct the filename by utterance index
                 file_name = f'{data_file}_LC{row["No."]}_C{idx}.mp3'
@@ -75,13 +75,13 @@ def main(args):
             utterances = list()
             for speaker, utterance in utterance_pair:
                 if speaker == "M" or speaker == "Q":
-                    utterance = tts_modules[0].synthesize(utterance)
+                    utterance = tts_modules[0].synthesize(utterance.strip())
                 elif speaker == "W":
-                    utterance = tts_modules[1].synthesize(utterance)
+                    utterance = tts_modules[1].synthesize(utterance.strip())
                 elif speaker == "B":
-                    utterance = tts_modules[2].synthesize(utterance)
+                    utterance = tts_modules[2].synthesize(utterance.strip())
                 else:
-                    utterance = tts_modules[3].synthesize(utterance)
+                    utterance = tts_modules[3].synthesize(utterance.strip())
                 utterances.append(utterance)
 
             # Merge all utterance audio into a single dialog track with pauses
