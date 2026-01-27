@@ -25,7 +25,7 @@ def main(args):
     # Extract the level identifier from the data filename
     data_file = args.data_file[:-4]
 
-    # Load a CV file from the specified data path
+    # Load a CSV file from the specified data path
     item_df = load_csv(data_path=f"./data/{args.data_file}")
 
     # Get the configurations from environment variables and command-line arguments
