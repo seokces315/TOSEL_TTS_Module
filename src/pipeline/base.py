@@ -9,7 +9,7 @@ import re
 
 
 # Generate a list of TTSModule instances
-def generate_tts_modules(api_key, model_id, voices, speed):
+def generate_tts_modules(api_key, model_id, voices, level):
     # Build a list of TTSModelConfig objects for each voice
     tts_configs = list()
     for voice in voices:
@@ -17,7 +17,7 @@ def generate_tts_modules(api_key, model_id, voices, speed):
             api_key=api_key,
             model_id=model_id,
             voice=voice,
-            speed=speed,
+            level=level,
         )
         tts_configs.append(tts_config)
 

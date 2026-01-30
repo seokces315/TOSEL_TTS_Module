@@ -24,6 +24,7 @@ def main(args):
 
     # Extract the level identifier from the data filename
     data_file = args.data_file[:-4]
+    level = data_file.split("_")[-1]
 
     # Load a CSV file from the specified data path
     item_df = load_csv(data_path=f"./data/{args.data_file}")
@@ -32,11 +33,13 @@ def main(args):
     openai_api_key = os.getenv("OPENAI_API_KEY")
     tts_model_id = os.getenv("TTS_MODEL_ID")
     voices = args.voices
-    speed = args.speed
 
     # Initialize TTS modules
     tts_modules = generate_tts_modules(
-        api_key=openai_api_key, model_id=tts_model_id, voices=voices, speed=speed
+        api_key=openai_api_key,
+        model_id=tts_model_id,
+        voices=voices,
+        level=level,
     )
 
     # Iterate over each row in the DataFrame

@@ -1,3 +1,5 @@
+from utils.config import TTS_INSTRUCTIONS_BY_LEVEL
+
 from openai import OpenAI
 
 
@@ -11,18 +13,11 @@ class TTSModule:
         # Load TTS configuration
         self.model_id = tts_config.model_id
         self.voice = tts_config.voice
-        self.speed = tts_config.speed
+        self.level = tts_config.level
         self.response_format = tts_config.response_format
 
         # Define TTS instructions optimized for producing test-appropriate English audio
-        self.instructions = """
-        Pronunciation: Precise and standard American English articulation.
-        Voice: Clear and neutral, suitable for standardized English tests.
-        Pacing: Steady and moderate, ensuring every word is easily understood.
-        Tone: Calm and informative, without emotional coloring.
-        Pauses: Natural short pauses at commas and sentence breaks for clarity.
-        Delivery: Professional and consistent, avoiding dramatic variation.
-        """
+        self.instructions = TTS_INSTRUCTIONS_BY_LEVEL[self.level]
 
     # Generate speech audio from the given text
     def synthesize(self, text):
@@ -32,7 +27,6 @@ class TTSModule:
             voice=self.voice,
             input=text,
             instructions=self.instructions,
-            speed=self.speed,
             response_format=self.response_format,
         )
 
